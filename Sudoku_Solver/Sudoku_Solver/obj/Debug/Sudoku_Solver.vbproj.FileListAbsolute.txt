@@ -1,0 +1,10 @@
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\bin\Debug\Sudoku_Solver.exe.config
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\bin\Debug\Sudoku_Solver.exe
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\bin\Debug\Sudoku_Solver.pdb
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\bin\Debug\Sudoku_Solver.xml
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\obj\Debug\Sudoku_Solver.vbprojAssemblyReference.cache
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\obj\Debug\Sudoku_Solver.Resources.resources
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\obj\Debug\Sudoku_Solver.vbproj.GenerateResource.cache
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\obj\Debug\Sudoku_Solver.exe
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\obj\Debug\Sudoku_Solver.xml
+C:\Users\Harry\source\repos\Sudoku_Solver\Sudoku_Solver\obj\Debug\Sudoku_Solver.pdb
